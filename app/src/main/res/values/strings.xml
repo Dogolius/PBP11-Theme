@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">MyViewAndViews</string>
+    <string name="content_text">OnePlus has been a really quite, but still classy brand. Their new flagship, Oneplus 9 really offers something different compared to the other brand. Despite having a flagship specification in every way possible, the price they offer is only half of almost all the other flagship available.</string>
+    <string name="content_specs_display">Fluid AMOLED, 120Hz, HDR10+, 1100 nits (peak)\n
+    Corning Gorilla Glass 5\n
+    Always-on display</string>
+    <string name="content_specs_size">6.55 inches, 103.6 cm2 (~87.6% screen-to-body ratio)\n
+    1080 x 2400 pixels, 20:9 ratio (~402 ppi density)</string>
+    <string name="content_specs_battery">Li-Po 4500 mAh, non-removable\n
+    65W wired, PD, 1-100% in 29 min (advertised)\n
+    15W wireless (EU/NA)\n</string>
+    <string name="stock">Stock hanya 5 buah</string>
+    <string name="specification">Spesifikasi</string>
+    <string name="display">Display</string>
+    <string name="size">Size</string>
+    <string name="battery">Battery</string>
+    <string name="seller">Dijual oleh</string>
+    <string name="my_name">Julius Adrian</string>
+    <string name="buy">Beli</string>
+    <string name="dummy_value">$735</string>
+    <string name="dummy_photos">6 photos</string>
+    <string name="contact_cs">Contact CS</string>
+    <string name="item_berhasil_dibeli">Item Berhasil Dibeli</string>
+    <string name="terima_kasih_telah_berbelanja">Terima Kasih Telah Berbelanja</string>
+
+</resources>
